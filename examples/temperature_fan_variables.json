@@ -1,0 +1,74 @@
+[
+  {
+    "name": "InitDone",
+    "type": "BOOL",
+    "kind": "Var",
+    "comment": "One-time parameter initialization complete"
+  },
+  {
+    "name": "Enable",
+    "type": "BOOL",
+    "kind": "Var",
+    "comment": "Demo input: enable temperature control"
+  },
+  {
+    "name": "SensorFault",
+    "type": "BOOL",
+    "kind": "Var",
+    "comment": "Demo input: TRUE means temperature sensor fault"
+  },
+  {
+    "name": "Temperature",
+    "type": "REAL",
+    "kind": "Var",
+    "comment": "Demo input: measured temperature in degC"
+  },
+  {
+    "name": "Setpoint",
+    "type": "REAL",
+    "kind": "Var",
+    "comment": "Editable stop threshold in degC; initial 25.0"
+  },
+  {
+    "name": "Deadband",
+    "type": "REAL",
+    "kind": "Var",
+    "comment": "Editable positive start offset in degC; initial 2.0"
+  },
+  {
+    "name": "HighLimit",
+    "type": "REAL",
+    "kind": "Var",
+    "comment": "Editable high temperature alarm threshold; initial 35.0"
+  },
+  {
+    "name": "ParamFault",
+    "type": "BOOL",
+    "kind": "Var",
+    "comment": "Invalid deadband or alarm threshold"
+  },
+  {
+    "name": "HighTempAlarm",
+    "type": "BOOL",
+    "kind": "Var",
+    "comment": "High temperature alarm with valid sensor and parameters"
+  },
+  {
+    "name": "FanDemand",
+    "type": "BOOL",
+    "kind": "Var",
+    "comment": "Internal hysteresis state"
+  },
+  {
+    "name": "FanRunCmd",
+    "type": "BOOL",
+    "kind": "Var",
+    "comment": "Demo output: fan run command"
+  },
+  {
+    "name": "StatusCode",
+    "type": "INT",
+    "kind": "Var",
+    "comment": "0 disabled; 1 idle; 2 running; 10 sensor; 11 parameter; 12 high temp"
+  }
+]

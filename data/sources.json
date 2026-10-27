@@ -1,0 +1,720 @@
+[
+  {
+    "id": "DOC01",
+    "title": "c.suite 4.4.22 安装步骤.docx",
+    "type": "manual",
+    "filename": "c.suite 4.4.22 安装步骤.docx",
+    "note": "90-原始资料/安装文档/DOC01_c.suite 4.4.22 安装步骤.docx.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "DOC02",
+    "title": "c.suite 4.2.9 安装步骤.docx",
+    "type": "manual",
+    "filename": "c.suite 4.2.9 安装步骤.docx",
+    "note": "90-原始资料/安装文档/DOC02_c.suite 4.2.9 安装步骤.docx.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "H0497",
+    "title": "PID_Adv",
+    "type": "manual",
+    "filename": "PID_Adv.htm",
+    "note": "90-原始资料/全文/CAREL 官方帮助 c.strategy 全文检索.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "PID_Adv.htm"
+  },
+  {
+    "id": "H0530",
+    "title": "PID_Adv_2",
+    "type": "manual",
+    "filename": "PID_Adv_2.htm",
+    "note": "90-原始资料/全文/CAREL 官方帮助 c.strategy 全文检索.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "PID_Adv_2.htm"
+  },
+  {
+    "id": "H0531",
+    "title": "PID_Adv_2 flags table",
+    "type": "manual",
+    "filename": "PID_Adv_2_Flag.htm",
+    "note": "90-原始资料/全文/CAREL 官方帮助 c.strategy 全文检索.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "PID_Adv_2_Flag.htm"
+  },
+  {
+    "id": "HELP0201",
+    "title": "0201_从基础应用开始创建工程.md",
+    "type": "manual",
+    "filename": "Starting_with_a_Basic_Application.htm",
+    "note": "90-原始资料/帮助译文/0201_从基础应用开始创建工程.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Starting_with_a_Basic_Application.htm"
+  },
+  {
+    "id": "HELP0202",
+    "title": "0202_创建变量与快速声明.md",
+    "type": "manual",
+    "filename": "Creating_Variables.htm",
+    "note": "90-原始资料/帮助译文/0202_创建变量与快速声明.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Creating_Variables.htm"
+  },
+  {
+    "id": "HELP0203",
+    "title": "0203_函数的定义与调用规则.md",
+    "type": "manual",
+    "filename": "Functions_definition.htm",
+    "note": "90-原始资料/帮助译文/0203_函数的定义与调用规则.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Functions_definition.htm"
+  },
+  {
+    "id": "HELP0204",
+    "title": "0204_功能块的定义与实例.md",
+    "type": "manual",
+    "filename": "Function_Blocks_definition.htm",
+    "note": "90-原始资料/帮助译文/0204_功能块的定义与实例.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Function_Blocks_definition.htm"
+  },
+  {
+    "id": "HELP0205",
+    "title": "0205_应用仿真.md",
+    "type": "manual",
+    "filename": "Simulating.htm",
+    "note": "90-原始资料/帮助译文/0205_应用仿真.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Simulating.htm"
+  },
+  {
+    "id": "HELP0206",
+    "title": "0206_应用在线运行与调试.md",
+    "type": "manual",
+    "filename": "Running_an_Application_Online.htm",
+    "note": "90-原始资料/帮助译文/0206_应用在线运行与调试.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Running_an_Application_Online.htm"
+  },
+  {
+    "id": "HELP0207",
+    "title": "0207_报警编辑器与复位方式.md",
+    "type": "manual",
+    "filename": "Alarm Editor.htm",
+    "note": "90-原始资料/帮助译文/0207_报警编辑器与复位方式.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Alarm Editor.htm"
+  },
+  {
+    "id": "HELP0208",
+    "title": "0208_FBD 程序的执行顺序.md",
+    "type": "manual",
+    "filename": "Execution_Order_of_FBD_Programs.htm",
+    "note": "90-原始资料/帮助译文/0208_FBD 程序的执行顺序.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Execution_Order_of_FBD_Programs.htm"
+  },
+  {
+    "id": "HELP0209",
+    "title": "0209_Modbus主站配置.md",
+    "type": "manual",
+    "filename": "ModBus_Master.htm",
+    "note": "90-原始资料/帮助译文/0209_Modbus主站配置.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "ModBus_Master.htm"
+  },
+  {
+    "id": "HELP0210",
+    "title": "0210_Modbus从站配置.md",
+    "type": "manual",
+    "filename": "ModBus_Slave.htm",
+    "note": "90-原始资料/帮助译文/0210_Modbus从站配置.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "ModBus_Slave.htm"
+  },
+  {
+    "id": "HELP0211",
+    "title": "0211_Modbus功能码与异常码.md",
+    "type": "manual",
+    "filename": "ModBus_Implemented_Function.htm",
+    "note": "90-原始资料/帮助译文/0211_Modbus功能码与异常码.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "ModBus_Implemented_Function.htm"
+  },
+  {
+    "id": "HELP0212",
+    "title": "0212_I_O通道配置与错误码.md",
+    "type": "manual",
+    "filename": "Config_U_IO.htm",
+    "note": "90-原始资料/帮助译文/0212_I_O通道配置与错误码.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Config_U_IO.htm"
+  },
+  {
+    "id": "HELP0213",
+    "title": "0213_DEV默认参数编辑器.md",
+    "type": "manual",
+    "filename": "DEV Editor.htm",
+    "note": "90-原始资料/帮助译文/0213_DEV默认参数编辑器.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "DEV Editor.htm"
+  },
+  {
+    "id": "HELP0214",
+    "title": "0214_LOG日志编辑器.md",
+    "type": "manual",
+    "filename": "Log Editor.htm",
+    "note": "90-原始资料/帮助译文/0214_LOG日志编辑器.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Log Editor.htm"
+  },
+  {
+    "id": "HELP0215",
+    "title": "0215_Modbus主从通信官方示例.md",
+    "type": "manual",
+    "filename": "Modbus_Master_Slave.htm",
+    "note": "90-原始资料/帮助译文/0215_Modbus主从通信官方示例.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "Modbus_Master_Slave.htm"
+  },
+  {
+    "id": "HELP0216",
+    "title": "0216_参数导入导出官方示例.md",
+    "type": "manual",
+    "filename": "ImpExp_Parameters.htm",
+    "note": "90-原始资料/帮助译文/0216_参数导入导出官方示例.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "ImpExp_Parameters.htm"
+  },
+  {
+    "id": "HELP0217",
+    "title": "0217_日志导出官方示例.md",
+    "type": "manual",
+    "filename": "ExportLogs.htm",
+    "note": "90-原始资料/帮助译文/0217_日志导出官方示例.md",
+    "source_urls": [],
+    "original_included": false,
+    "offline_help_topic": "ExportLogs.htm"
+  },
+  {
+    "id": "MCP_SOURCE",
+    "title": "PRG_TemperatureFan源码快照",
+    "type": "project",
+    "filename": "PRG_TemperatureFan.isaxml",
+    "note": "90-原始资料/工程源码/CAREL PRG_TemperatureFan源码快照.md",
+    "source_urls": [],
+    "original_included": true
+  },
+  {
+    "id": "PDF02",
+    "title": "0101_ST结构化文本课程_2.05_中文版.pdf",
+    "type": "pdf",
+    "filename": "0101_ST结构化文本课程_2.05_中文版.pdf",
+    "note": "90-原始资料/PDF全文/PDF02_0101_ST结构化文本课程_2.05_中文版.pdf.md",
+    "source_urls": [],
+    "original_included": false,
+    "pdf_file_pages": 90
+  },
+  {
+    "id": "PDF03",
+    "title": "0102_c.suite培训课程_2.8_中文版.pdf",
+    "type": "pdf",
+    "filename": "0102_c.suite培训课程_2.8_中文版.pdf",
+    "note": "90-原始资料/PDF全文/PDF03_0102_c.suite培训课程_2.8_中文版.pdf.md",
+    "source_urls": [],
+    "original_included": false,
+    "pdf_file_pages": 147
+  },
+  {
+    "id": "PDF06",
+    "title": "0401_c.pCO系统用户手册_外文原版.pdf",
+    "type": "pdf",
+    "filename": "0401_c.pCO系统用户手册_外文原版.pdf",
+    "note": "90-原始资料/PDF全文/PDF06_0401_c.pCO系统用户手册_外文原版.pdf.md",
+    "source_urls": [
+      "https://www.careluk.com/documents/10191/0/%2B0300057EN/22e91b46-05a8-4291-896d-8132e8396841?version=1.17"
+    ],
+    "original_included": false,
+    "pdf_file_pages": 58
+  },
+  {
+    "id": "PDF07",
+    "title": "0402_c.pCOmini安装说明_外文原版.pdf",
+    "type": "pdf",
+    "filename": "0402_c.pCOmini安装说明_外文原版.pdf",
+    "note": "90-原始资料/PDF全文/PDF07_0402_c.pCOmini安装说明_外文原版.pdf.md",
+    "source_urls": [
+      "https://mce.carel.com/documents/10191/0/%2B0500058IE/37a314c8-c45e-457b-9a1b-53285ed08b63?version=1.9"
+    ],
+    "original_included": false,
+    "pdf_file_pages": 2
+  },
+  {
+    "id": "PDF08",
+    "title": "0403_c.pCOe扩展模块说明_外文原版.pdf",
+    "type": "pdf",
+    "filename": "0403_c.pCOe扩展模块说明_外文原版.pdf",
+    "note": "90-原始资料/PDF全文/PDF08_0403_c.pCOe扩展模块说明_外文原版.pdf.md",
+    "source_urls": [
+      "https://www.careluk.com/documents/10191/0/%2B0500059IE/453236bb-b9f0-4c00-81d3-99f3bc288dc3?version=1.7"
+    ],
+    "original_included": false,
+    "pdf_file_pages": 2
+  },
+  {
+    "id": "PDF10",
+    "title": "0405_pGD1图形显示终端_官方中英原版.pdf",
+    "type": "pdf",
+    "filename": "0405_pGD1图形显示终端_官方中英原版.pdf",
+    "note": "90-原始资料/PDF全文/PDF10_0405_pGD1图形显示终端_官方中英原版.pdf.md",
+    "source_urls": [
+      "https://healthcare.carel.com/documents/10191/0/%2B05C001050/a854f2aa-8f61-487c-9297-66cb7327ffa9?version=1.0"
+    ],
+    "original_included": false,
+    "pdf_file_pages": 2
+  },
+  {
+    "id": "PDF11",
+    "title": "0406_pGDe图形显示终端_官方中英原版.pdf",
+    "type": "pdf",
+    "filename": "0406_pGDe图形显示终端_官方中英原版.pdf",
+    "note": "90-原始资料/PDF全文/PDF11_0406_pGDe图形显示终端_官方中英原版.pdf.md",
+    "source_urls": [
+      "https://healthcare.carel.com/documents/10191/0/%2B05C001450/350aa0b6-367b-4a99-bad8-3419676ed6ef?version=1.0"
+    ],
+    "original_included": false,
+    "pdf_file_pages": 2
+  },
+  {
+    "id": "PDF12",
+    "title": "0407_旧版pCO系统通用手册_官方中文原版.pdf",
+    "type": "pdf",
+    "filename": "0407_旧版pCO系统通用手册_官方中文原版.pdf",
+    "note": "90-原始资料/PDF全文/PDF12_0407_旧版pCO系统通用手册_官方中文原版.pdf.md",
+    "source_urls": [
+      "https://healthcare.carel.com/documents/10191/0/%2B03C220336/6a23f04a-4eb4-4db4-be82-6e44c68c3b6b?version=1.0"
+    ],
+    "original_included": false,
+    "pdf_file_pages": 75
+  },
+  {
+    "id": "PPT01",
+    "title": "csuite_Course_2_8.pptx",
+    "type": "ppt",
+    "filename": "csuite_Course_2_8.pptx",
+    "note": "90-原始资料/PPT逐页/PPT01_csuite_Course_2_8.pptx.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "PPT02",
+    "title": "0102_c.suite培训课程_2.8_中文版.pptx",
+    "type": "ppt",
+    "filename": "0102_c.suite培训课程_2.8_中文版.pptx",
+    "note": "90-原始资料/PPT逐页/PPT02_0102_c.suite培训课程_2.8_中文版.pptx.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "PPT04",
+    "title": "Course_ST_EN_ver_2_05.pptx",
+    "type": "ppt",
+    "filename": "Course_ST_EN_ver_2_05.ppt",
+    "note": "90-原始资料/PPT逐页/PPT04_Course_ST_EN_ver_2_05.pptx.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "PROJECT06",
+    "title": "TemperatureFanDemo",
+    "type": "project",
+    "filename": "TemperatureFanDemo.otsln",
+    "note": "05-编程与程序结构/PROJECT06_TemperatureFanDemo工程结构.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0301",
+    "title": "平台与控制器入门",
+    "type": "video",
+    "filename": "0301_平台与控制器入门.mp4",
+    "note": "09-视频课程笔记/0301_平台与控制器入门.md",
+    "source_urls": [
+      "https://rutube.ru/video/732ca1861998e4f06f41e81c8fac7a26/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0302",
+    "title": "使用FBD实现温度控制",
+    "type": "video",
+    "filename": "0302_使用FBD实现温度控制.mp4",
+    "note": "09-视频课程笔记/0302_使用FBD实现温度控制.md",
+    "source_urls": [
+      "https://rutube.ru/video/98b4fc7c1a5d24a345e36432f08d2dde/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0303",
+    "title": "仿真调试",
+    "type": "video",
+    "filename": "0303_仿真调试.mp4",
+    "note": "09-视频课程笔记/0303_仿真调试.md",
+    "source_urls": [
+      "https://rutube.ru/video/89ee58dba3f31642f1d62ef5828b29ce/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0304",
+    "title": "c.design 输入输出编辑器",
+    "type": "video",
+    "filename": "0304_c.design 输入输出编辑器.mp4",
+    "note": "09-视频课程笔记/0304_c.design 输入输出编辑器.md",
+    "source_urls": [
+      "https://rutube.ru/video/1e75e14e38a649c4feb2219453307a0e/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0305",
+    "title": "c.design 画面向导",
+    "type": "video",
+    "filename": "0305_c.design 画面向导.mp4",
+    "note": "09-视频课程笔记/0305_c.design 画面向导.md",
+    "source_urls": [
+      "https://rutube.ru/video/53ec97993ad085a28495053f2fa7a70b/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0306",
+    "title": "通过USB和以太网向控制器传输程序",
+    "type": "video",
+    "filename": "0306_通过USB和以太网向控制器传输程序.mp4",
+    "note": "09-视频课程笔记/0306_通过USB和以太网向控制器传输程序.md",
+    "source_urls": [
+      "https://rutube.ru/video/6f2bc08ff5edc8edc361b821fe6381b2/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0307",
+    "title": "通过USB和以太网在线调试",
+    "type": "video",
+    "filename": "0307_通过USB和以太网在线调试.mp4",
+    "note": "09-视频课程笔记/0307_通过USB和以太网在线调试.md",
+    "source_urls": [
+      "https://rutube.ru/video/0184ff0643da83b71f962c2f55a9391c/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0308",
+    "title": "功能块温控与简单ST语句",
+    "type": "video",
+    "filename": "0308_功能块温控与简单ST语句.mp4",
+    "note": "09-视频课程笔记/0308_功能块温控与简单ST语句.md",
+    "source_urls": [
+      "https://rutube.ru/video/039515add632551e28750f2867368515/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0309",
+    "title": "功能块温控与四个回差实例",
+    "type": "video",
+    "filename": "0309_功能块温控与四个回差实例.mp4",
+    "note": "09-视频课程笔记/0309_功能块温控与四个回差实例.md",
+    "source_urls": [
+      "https://rutube.ru/video/626739eaf697f90e04fd2e33a88ec36c/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0310",
+    "title": "c.strategy 常用功能",
+    "type": "video",
+    "filename": "0310_c.strategy 常用功能.mp4",
+    "note": "09-视频课程笔记/0310_c.strategy 常用功能.md",
+    "source_urls": [
+      "https://rutube.ru/video/e7698c8ae5e231fcc99d2e3494d81098/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0311",
+    "title": "c.mask 基础与单画面",
+    "type": "video",
+    "filename": "0311_c.mask 基础与单画面.mp4",
+    "note": "09-视频课程笔记/0311_c.mask 基础与单画面.md",
+    "source_urls": [
+      "https://rutube.ru/video/d3aea94e874e4eb8df3c2a4f455cd997/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0312",
+    "title": "画面循环与按键绑定",
+    "type": "video",
+    "filename": "0312_画面循环与按键绑定.mp4",
+    "note": "09-视频课程笔记/0312_画面循环与按键绑定.md",
+    "source_urls": [
+      "https://rutube.ru/video/e8b93ebf57cee67efb3e12aa02898493/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0313",
+    "title": "压缩机组控制画面",
+    "type": "video",
+    "filename": "0313_压缩机组控制画面.mp4",
+    "note": "09-视频课程笔记/0313_压缩机组控制画面.md",
+    "source_urls": [
+      "https://rutube.ru/video/53de9b52b670e335c898d4c4d5c3bc93/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0314",
+    "title": "终端、画面、类与自定义类",
+    "type": "video",
+    "filename": "0314_终端、画面、类与自定义类.mp4",
+    "note": "09-视频课程笔记/0314_终端、画面、类与自定义类.md",
+    "source_urls": [
+      "https://rutube.ru/video/844eb48376fa48a40fa06273dfaf685e/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0315",
+    "title": "设备启停状态管理",
+    "type": "video",
+    "filename": "0315_设备启停状态管理.mp4",
+    "note": "09-视频课程笔记/0315_设备启停状态管理.md",
+    "source_urls": [
+      "https://rutube.ru/video/1c616c7fce522d840178c9a8385465dd/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0316",
+    "title": "报警管理一：概述与项目模板",
+    "type": "video",
+    "filename": "0316_报警管理一：概述与项目模板.mp4",
+    "note": "09-视频课程笔记/0316_报警管理一：概述与项目模板.md",
+    "source_urls": [
+      "https://rutube.ru/video/fbd9ef88e2f6d845a57a70bfbb725d5a/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0317",
+    "title": "报警管理二：导入Chiller控制逻辑",
+    "type": "video",
+    "filename": "0317_报警管理二：导入Chiller控制逻辑.mp4",
+    "note": "09-视频课程笔记/0317_报警管理二：导入Chiller控制逻辑.md",
+    "source_urls": [
+      "https://rutube.ru/video/8904d35aa171681a20235b73573bc108/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0318",
+    "title": "报警管理三：功能实现",
+    "type": "video",
+    "filename": "0318_报警管理三：功能实现.mp4",
+    "note": "09-视频课程笔记/0318_报警管理三：功能实现.md",
+    "source_urls": [
+      "https://rutube.ru/video/bba1276b92f908a442b2309513c94a65/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0319",
+    "title": "Modbus从站协议配置",
+    "type": "video",
+    "filename": "0319_Modbus从站协议配置.mp4",
+    "note": "09-视频课程笔记/0319_Modbus从站协议配置.md",
+    "source_urls": [
+      "https://rutube.ru/video/0ba01ddca92614351b75d074b4863a5e/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0320",
+    "title": "Modbus主站协议配置",
+    "type": "video",
+    "filename": "0320_Modbus主站协议配置.mp4",
+    "note": "09-视频课程笔记/0320_Modbus主站协议配置.md",
+    "source_urls": [
+      "https://rutube.ru/video/c12e95aed64a5dcaacbf7b2f802d4831/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0321",
+    "title": "数据记录与LOG编辑器",
+    "type": "video",
+    "filename": "0321_数据记录与LOG编辑器.mp4",
+    "note": "09-视频课程笔记/0321_数据记录与LOG编辑器.md",
+    "source_urls": [
+      "https://rutube.ru/video/18a5e3d8a8f9a0fda200d39c454d6d01/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0322",
+    "title": "功能库入门",
+    "type": "video",
+    "filename": "0322_功能库入门.mp4",
+    "note": "09-视频课程笔记/0322_功能库入门.md",
+    "source_urls": [
+      "https://rutube.ru/video/6fdbb0af9a3f48af2e91f7e6b542ed14/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0323",
+    "title": "设备库与c.pCOe扩展模块",
+    "type": "video",
+    "filename": "0323_设备库与c.pCOe扩展模块.mp4",
+    "note": "09-视频课程笔记/0323_设备库与c.pCOe扩展模块.md",
+    "source_urls": [
+      "https://rutube.ru/video/6a1e5d103e43d088062ee75023aa11de/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0324",
+    "title": "梯形图与顺序功能图概览",
+    "type": "video",
+    "filename": "0324_梯形图与顺序功能图概览.mp4",
+    "note": "09-视频课程笔记/0324_梯形图与顺序功能图概览.md",
+    "source_urls": [
+      "https://rutube.ru/video/e3e68d31201ee8773c309dada75733ed/"
+    ],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0401",
+    "title": "c.mask多语言与其他功能",
+    "type": "video",
+    "filename": "17-c.mask_Miscellaneous.mp4",
+    "note": "09-视频课程笔记/0401_c.mask多语言与其他功能.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0402",
+    "title": "DEV编辑器",
+    "type": "video",
+    "filename": "20-c.design_DEV_Editor.mp4",
+    "note": "09-视频课程笔记/0402_DEV编辑器.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0403",
+    "title": "tERA Web与pCO配置编辑器",
+    "type": "video",
+    "filename": "22-c.design_tERA-Web_pCOconf_Editor.mp4",
+    "note": "09-视频课程笔记/0403_tERA Web与pCO配置编辑器.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0404",
+    "title": "c.factory操作",
+    "type": "video",
+    "filename": "23-c.factory.mp4",
+    "note": "09-视频课程笔记/0404_c.factory操作.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0405",
+    "title": "局域网与计量单位",
+    "type": "video",
+    "filename": "24-LAN_UnitOfMeasure.mp4",
+    "note": "09-视频课程笔记/0405_局域网与计量单位.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0406",
+    "title": "文件系统USB与以太网服务",
+    "type": "video",
+    "filename": "25-OS_services_FileSystem_USB_ETH.mp4",
+    "note": "09-视频课程笔记/0406_文件系统USB与以太网服务.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0407",
+    "title": "AP1升级包",
+    "type": "video",
+    "filename": "26-UpgradePackage_AP1.mp4",
+    "note": "09-视频课程笔记/0407_AP1升级包.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0408",
+    "title": "Web服务器",
+    "type": "video",
+    "filename": "27-WebServer.mp4",
+    "note": "09-视频课程笔记/0408_Web服务器.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0409",
+    "title": "数据保护",
+    "type": "video",
+    "filename": "28-Data_Protection.mp4",
+    "note": "09-视频课程笔记/0409_数据保护.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0410",
+    "title": "其他功能与后续学习",
+    "type": "video",
+    "filename": "32-Miscellaneous_NextSteps.mp4",
+    "note": "09-视频课程笔记/0410_其他功能与后续学习.md",
+    "source_urls": [],
+    "original_included": false
+  },
+  {
+    "id": "VIDEO0411",
+    "title": "俄语翻译附录（无音轨）",
+    "type": "video",
+    "filename": "Appendix_B_HowToTranslateInRussian.mp4",
+    "note": "09-视频课程笔记/0411_俄语翻译附录（无音轨）.md",
+    "source_urls": [],
+    "original_included": false
+  }
+]
